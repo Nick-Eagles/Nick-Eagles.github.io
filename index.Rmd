@@ -34,10 +34,21 @@ B.S. in Mathematics | September 2013 - May 2018
 
 [BiocMAP: A Bioconductor-friendly, GPU-Accelerated Pipeline for Bisulfite-Sequencing Data](https://doi.org/10.1101/2022.04.20.488947)
 
-- bioRxiv, 2022 (preprint).
+- *bioRxiv*, 2022 (preprint).
 
 [SPEAQeasy: a scalable pipeline for expression analysis and quantification for R/bioconductor-powered RNA-seq analyses.](https://doi.org/10.1186/s12859-021-04142-3)
 
-- BMC Bioinformatics, 2021.
+- *BMC Bioinformatics*, 2021.
 
 My full list of publications is available at my [ORCID profile](https://orcid.org/0000-0002-9808-5254).
+
+## Public Presentations
+
+**Biological Data Science** | *Cold Spring Harbor Laboratory* | 2022
+
+- Presented a poster: [Benchmarking spot-level cell-type deconvolution methods using Visium immunofluorescence benchmark data on the human dorsolateral prefrontal cortex](https://speakerdeck.com/nickeagles/bds-2022).
+
+**European Bioconductor** | *Bioconductor* | 2020
+
+- Presented my [SPEAQeasy paper](https://www.youtube.com/watch?v=tPSG23hUHSI).
+
