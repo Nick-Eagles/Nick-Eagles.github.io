@@ -32,9 +32,9 @@ B.S. in Mathematics | September 2013 - May 2018
 
 ## Publications
 
-[BiocMAP: A Bioconductor-friendly, GPU-Accelerated Pipeline for Bisulfite-Sequencing Data](https://doi.org/10.1101/2022.04.20.488947)
+[BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data](https://doi.org/10.1186/s12859-023-05461-3)
 
-- *bioRxiv*, 2022 (preprint).
+- *BMC Bioinformatics*, 2023.
 
 [SPEAQeasy: a scalable pipeline for expression analysis and quantification for R/bioconductor-powered RNA-seq analyses.](https://doi.org/10.1186/s12859-021-04142-3)
 
