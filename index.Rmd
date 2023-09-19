@@ -44,6 +44,12 @@ My full list of publications is available at my [ORCID profile](https://orcid.or
 
 ## Public Presentations
 
+**Bioconductor** | *Bioconductor* | 2023
+
+- Presented a workshop: [A Bioconductor-style differential expression analysis powered by SPEAQeasy](http://research.libd.org/SPEAQeasyWorkshop2023/) recorded as a [video](https://www.youtube.com/watch?v=6hJXPw9PM1o)
+
+- Presented a short talk: [Spot Deconvolution in the Post-Mortem Human DLPFC](https://speakerdeck.com/nickeagles/bioc-2023-spot-deconvolution) recorded as a [video](https://www.youtube.com/watch?v=YA5H2XP6jjU&t=700s)
+
 **Biological Data Science** | *Cold Spring Harbor Laboratory* | 2022
 
 - Presented a poster: [Benchmarking spot-level cell-type deconvolution methods using Visium immunofluorescence benchmark data on the human dorsolateral prefrontal cortex](https://speakerdeck.com/nickeagles/bds-2022).
