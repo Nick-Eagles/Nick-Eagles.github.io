@@ -34,11 +34,11 @@ B.S. in Mathematics | September 2013 - May 2018
 
 [BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data](https://doi.org/10.1186/s12859-023-05461-3)
 
-- *BMC Bioinformatics*, 2023.
+- Eagles et al., *BMC Bioinformatics*, 2023.
 
 [SPEAQeasy: a scalable pipeline for expression analysis and quantification for R/bioconductor-powered RNA-seq analyses.](https://doi.org/10.1186/s12859-021-04142-3)
 
-- *BMC Bioinformatics*, 2021.
+- Eagles et al., *BMC Bioinformatics*, 2021.
 
 My full list of publications is available at my [ORCID profile](https://orcid.org/0000-0002-9808-5254).
 
