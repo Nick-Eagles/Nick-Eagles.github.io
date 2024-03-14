@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/Nick-Eagles"
   - label: Email
-    url: "nickeagles77@gmail.com"
+    url: "mailto:nickeagles77@gmail.com"
 output:
   postcards::trestles
 ---
