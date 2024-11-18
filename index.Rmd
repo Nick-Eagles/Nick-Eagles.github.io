@@ -16,7 +16,7 @@ output:
 
 I'm currently a Research Associate in the [data science team](https://lcolladotor.github.io/bioc_team_ds/) led by Leonardo Collado-Torres at [LIBD](https://www.libd.org/).
 
-Here, I use R, python, shell scripting, and more to develop computational pipelines for processing genomic data, explore and implement machine-learning methods, and publish research papers showcasing this software and biological findings. My work in genomics spans topics such as bulk-RNA-sequencing (for which I published [SPEAQeasy](https://doi.org/10.1186/s12859-021-04142-3)), whole-genome bisulfite sequencing (for which I published [BiocMAP](https://doi.org/10.1101/2022.04.20.488947)), spatial transcriptomics, and cell-type deconvolution.
+Here, I use R, python, shell scripting, and more to develop computational pipelines for processing genomic data, explore and implement machine-learning methods, and publish research papers showcasing this software and biological findings. My work in genomics spans topics such as bulk-RNA-sequencing (for which I published [SPEAQeasy](https://doi.org/10.1186/s12859-021-04142-3)), whole-genome bisulfite sequencing (see [BiocMAP](https://doi.org/10.1101/2022.04.20.488947)), spatial transcriptomics (see [visiumStitched](https://doi.org/10.1186/s12864-024-10991-y)), and cell-type deconvolution.
 
 I also help [install and maintain software](https://github.com/LieberInstitute/jhpce_mod_source) for LIBD and collaborators, and mentor and share my knowledge through [data science guidance sessions](https://lcolladotor.github.io/bioc_team_ds/data-science-guidance-sessions.html) and [R Stats Club](http://research.libd.org/rstatsclub/) presentations. Some example topics I've taught include [implementing machine-learning models in python](https://youtu.be/-qFz7PwWEeY), [system-wide software installations on high-performance computing clusters with Lmod](https://youtu.be/8w6JDsrgqVs), and [running PyTorch-based software with GPUs at HPC environments](https://youtu.be/zOMUXYHtVJM).
 
@@ -28,9 +28,13 @@ B.S. in Mathematics | September 2013 - May 2018
 
 ## Experience
 
-**Lieber Institute for Brain Development** | Research Associate- Data Science | November 2018 - Present
+**Lieber Institute for Brain Development** | Research Associate II- Data Science | November 2018 - Present
 
 ## Publications
+
+[Integrating gene expression and imaging data across Visium capture areas with visiumStitched](https://doi.org/10.1186/s12864-024-10991-y)
+
+- Eagles et al., *BMC Genomics*, 2024.
 
 [BiocMAP: a Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data](https://doi.org/10.1186/s12859-023-05461-3)
 
