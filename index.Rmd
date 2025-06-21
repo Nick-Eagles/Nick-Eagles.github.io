@@ -40,6 +40,10 @@ and [running PyTorch-based software with GPUs at HPC environments](https://youtu
 
 ## Education
 
+**IBM** | Online
+
+Data Science Professional Certification | October 2024 - January 2025
+
 **University of Maryland, Baltimore County** | Baltimore, MD
 
 B.S. in Mathematics | September 2013 - May 2018
