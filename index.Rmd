@@ -50,9 +50,12 @@ I use `scikit-learn` to train and test some candidate cell-type-classification
 models.
 
 - **Data wrangling, cleaning, and visualization**: Beginning with several messy,
-large datasets, I use `dplyr` in R to [clean and integrate](https://github.com/LieberInstitute/Habenula_Pilot/blob/b7b670eafbd10093f94dafc62c787199d1fbd719/code/17_eQTL/08_beta_plots.R#L315-L374)
+large datasets, I use `dplyr` in R to [clean and integrate them.](https://github.com/LieberInstitute/Habenula_Pilot/blob/b7b670eafbd10093f94dafc62c787199d1fbd719/code/17_eQTL/08_beta_plots.R#L315-L374)
 Along the way, I [visualize key patterns](https://github.com/LieberInstitute/Habenula_Pilot/blob/b7b670eafbd10093f94dafc62c787199d1fbd719/code/17_eQTL/08_beta_plots.R#L229-L246)
 with `ggplot2`.
+
+- **Deep learning**: In a personal project to build a neural-network-powered
+chess engine, I use Keras/Tensorflow to [build and fit a CNN-based model.](https://github.com/Nick-Eagles/Chess-Engine/blob/master/external/fit_real_data.py)
 
 ### Bioinformatics Pipelines
 
