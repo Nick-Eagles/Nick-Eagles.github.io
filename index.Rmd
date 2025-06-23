@@ -38,6 +38,25 @@ topics I've taught include
 [system-wide software installations on high-performance computing clusters with Lmod](https://youtu.be/8w6JDsrgqVs),
 and [running PyTorch-based software with GPUs at HPC environments](https://youtu.be/zOMUXYHtVJM).
 
+## Portfolio
+
+### Bioinformatics Pipelines
+
+These are *Nextflow*-based pipelines for processing genomic data where I was the
+lead developer.
+
+- **SPEAQeasy**: bulk RNA-seq preprocessing workflow, quantifying features like
+genes into `SummarizedExperiment` R objects (
+[code](https://github.com/LieberInstitute/SPEAQeasy) |
+[documentation](http://lieberinstitute.github.io/SPEAQeasy) |
+[paper](https://doi.org/10.1186/s12859-021-04142-3))
+
+- **BiocMAP**: preprocessing workflow for bisulfite sequencing data, quantifying
+methylation in `bsseq` R objects (
+[code](https://github.com/LieberInstitute/BiocMAP) |
+[documentation](http://research.libd.org/BiocMAP/) |
+[paper](https://doi.org/10.1101/2022.04.20.488947))
+
 ## Education
 
 **IBM** | Online
