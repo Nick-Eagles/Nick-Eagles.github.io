@@ -40,6 +40,20 @@ and [running PyTorch-based software with GPUs at HPC environments](https://youtu
 
 ## Portfolio
 
+### Data Science Snippets
+
+Here I showcase actual code I've developed for data-science tasks throughout
+my career.
+
+- **Building machine-learning models**: [here](https://github.com/LieberInstitute/spatialDLPFC/blob/main/code/spot_deconvo/02-cellpose/10-explore_models.py)
+I use `scikit-learn` to train and test some candidate cell-type-classification
+models.
+
+- **Data wrangling, cleaning, and visualization**: Beginning with several messy,
+large datasets, I use `dplyr` in R to [clean and integrate](https://github.com/LieberInstitute/Habenula_Pilot/blob/b7b670eafbd10093f94dafc62c787199d1fbd719/code/17_eQTL/08_beta_plots.R#L315-L374)
+Along the way, I [visualize key patterns](https://github.com/LieberInstitute/Habenula_Pilot/blob/b7b670eafbd10093f94dafc62c787199d1fbd719/code/17_eQTL/08_beta_plots.R#L229-L246)
+with `ggplot2`.
+
 ### Bioinformatics Pipelines
 
 These are *Nextflow*-based pipelines for processing genomic data where I was the
