@@ -57,6 +57,21 @@ with `ggplot2`.
 - **Deep learning**: In a personal project to build a neural-network-powered
 chess engine, I use Keras/Tensorflow to [build and fit a CNN-based model.](https://github.com/Nick-Eagles/Chess-Engine/blob/master/external/fit_real_data.py)
 
+### Data Engineering Projects
+
+These personal projects are heavier on the SQL, ETL/ELT pipelining, and data-warehouse-interaction
+side of things.
+
+- **ELT pipeline + data warehouse**: [here](https://github.com/Nick-Eagles/customer_orders_ELT)
+I designed a data warehouse using the medallion architecture, and implemented an
+ELT pipeline using `dbt` and `Airflow` to populate it with cleaned, BI-ready
+tables.
+
+- **Titanic Databricks project**: [here](https://github.com/Nick-Eagles/data_engineering_practice/tree/master/databricks/titanic_project)
+I engineer a Databricks workflow/ ETL pipeline with the well-known
+Titanic dataset touching `Pyspark`, Databricks notebooks + dashboards, Unity Catalog,
+and more. As a bonus I recreated the final visualizations with interactivity in Tableau [here](https://public.tableau.com/app/profile/nick.eagles/viz/TitanicDatasetKeyFindings/main_dashboard#1).
+
 ### Bioinformatics Pipelines
 
 These are *Nextflow*-based pipelines for processing genomic data where I was the
@@ -119,4 +134,3 @@ My full list of publications is available at my [ORCID profile](https://orcid.or
 **European Bioconductor** | *Bioconductor* | 2020
 
 - Presented my [SPEAQeasy paper](https://www.youtube.com/watch?v=tPSG23hUHSI).
-
