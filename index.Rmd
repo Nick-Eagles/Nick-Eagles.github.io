@@ -19,7 +19,7 @@ I'm currently a data scientist and bioinformatician in the
 Collado-Torres at [LIBD](https://www.libd.org/).
 
 Here, I design data pipelines, apply statistics and machine learning to better
-understand genomic data, and develop BI visualizations to communicate insights
+understand genomic data, and develop BI visualizations to communicate insights.
 
 I also help
 [install and maintain software](https://github.com/LieberInstitute/jhpce_mod_source)
