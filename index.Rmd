@@ -18,25 +18,22 @@ I'm currently a data scientist and bioinformatician in the
 [team](https://lcolladotor.github.io/bioc_team_ds/) led by Leonardo
 Collado-Torres at [LIBD](https://www.libd.org/).
 
-Here, I use R, Python, shell scripting, and more to develop computational
-pipelines for processing genomic data, explore and implement machine-learning
-methods, and publish research papers showcasing open-source software and biological
-findings. My work in genomics spans topics such as bulk-RNA sequencing (for
-which I published [SPEAQeasy](https://doi.org/10.1186/s12859-021-04142-3)),
-whole-genome bisulfite sequencing (see
-[BiocMAP](https://doi.org/10.1101/2022.04.20.488947)), spatial transcriptomics
-(see [visiumStitched](https://doi.org/10.1186/s12864-024-10991-y)), and
-cell-type deconvolution.
+Here, I design data pipelines, apply statistics and machine learning to better
+understand genomic data, and develop BI visualizations to communicate insights
 
 I also help
 [install and maintain software](https://github.com/LieberInstitute/jhpce_mod_source)
-for LIBD and collaborators, and mentor and share my knowledge through
-[data science guidance sessions](https://lcolladotor.github.io/bioc_team_ds/data-science-guidance-sessions.html)
-and [R Stats Club](http://research.libd.org/rstatsclub/) presentations. Some example
-topics I've taught include
-[implementing machine-learning models in python](https://youtu.be/-qFz7PwWEeY),
-[system-wide software installations on high-performance computing clusters with Lmod](https://youtu.be/8w6JDsrgqVs),
+for LIBD and collaborators, mentor and share my knowledge through
+[data science guidance sessions](https://lcolladotor.github.io/bioc_team_ds/data-science-guidance-sessions.html),
+and direct the [R Stats Club](http://research.libd.org/rstatsclub/). Some example
+topics I've taught there include
+[implementing machine-learning models in Python](https://youtu.be/-qFz7PwWEeY),
+[leveraging LLMs for data science](https://youtu.be/xuCQZ5_5KB0),
 and [running PyTorch-based software with GPUs at HPC environments](https://youtu.be/zOMUXYHtVJM).
+
+I use technologies like R (tidyverse + Bioconductor), Python (pandas + scikit-learn),
+and git daily. I've also developed expertise with SQL, Databricks, Airflow, dbt, and
+Tableau.
 
 ## Portfolio
 
