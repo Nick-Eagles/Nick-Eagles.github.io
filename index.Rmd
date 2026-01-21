@@ -106,6 +106,10 @@ My full list of publications is available at my [ORCID profile](https://orcid.or
 
 ## Public Presentations
 
+**Galaxy and Bioconductor Conference** | 2025
+
+- Presented a short talk: [Computational considerations for analysis of Visium HD—A Bioconductor user’s perspective](https://youtu.be/OFkQUw9FGI0?si=m0VZ9SMZB6MhXGRZ&t=1909)
+
 **Bioconductor** | *Bioconductor* | 2023
 
 - Presented a workshop: [A Bioconductor-style differential expression analysis powered by SPEAQeasy](http://research.libd.org/SPEAQeasyWorkshop2023/) recorded as a [video](https://www.youtube.com/watch?v=6hJXPw9PM1o)
